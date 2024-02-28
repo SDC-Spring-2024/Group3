@@ -1,9 +1,9 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[Project Title\]
+# \[Group 3 Project\]
 
 ### Team Members
 - Ary (Project Lead)
-- Liyou
+- Leo
 - Ritesh
 - Colin
 - Peripatetic (don't know name yet)
